@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/awsd-module-5-assignment/static/css/main.b53bd5b2.css",
+    "main.js": "/awsd-module-5-assignment/static/js/main.62dfe84f.js",
+    "static/js/787.13ce03d6.chunk.js": "/awsd-module-5-assignment/static/js/787.13ce03d6.chunk.js",
+    "index.html": "/awsd-module-5-assignment/index.html",
+    "main.b53bd5b2.css.map": "/awsd-module-5-assignment/static/css/main.b53bd5b2.css.map",
+    "main.62dfe84f.js.map": "/awsd-module-5-assignment/static/js/main.62dfe84f.js.map",
+    "787.13ce03d6.chunk.js.map": "/awsd-module-5-assignment/static/js/787.13ce03d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b53bd5b2.css",
+    "static/js/main.62dfe84f.js"
+  ]
+}
